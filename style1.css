@@ -92,11 +92,11 @@ nav .navi ul li:last-child {
 }
 
 @keyframes slideshow {
-  0% { background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)), url("images/back1.jpg"); }
-  25% { background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)), url("images/back2.jpg"); }
-  50% { background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)), url("images/back3.jpg"); }
-  75% { background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)), url("images/background.jpg"); }
-  100% { background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)), url("images/back4.jpg"); }
+  0% { background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)), url("back1.jpg"); }
+  25% { background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)), url("back2.jpg"); }
+  50% { background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)), url("back3.jpg"); }
+  75% { background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)), url("background.jpg"); }
+  100% { background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)), url("back4.jpg"); }
 }
 
 
